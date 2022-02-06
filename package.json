@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ar-product-card",
+  "name": "are-product-card",
   "author": "echanovevaro",
   "module": "dist/ar-product-card.esm.js",
   "size-limit": [
