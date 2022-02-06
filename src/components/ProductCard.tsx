@@ -24,7 +24,7 @@ export interface Props {
   style?: React.CSSProperties;
   onChange?: (arg: OnChangeArgs) => void;
   value?: number;
-  intialValues: IntialValues;
+  intialValues?: IntialValues;
 }
 
 export const ProductCard = ({
